@@ -7,7 +7,7 @@ const Menu = () => {
     return (
 
             <div className="menu"> 
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react logo" style={{ width: '80px', }}/>
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react logo" style={{ width: '90px', }}/>
                         <h1>แบบทดสอบ React</h1>
                     <button onClick={()=>setAppState("quiz")}>เริ่มทำกันเลย</button>
             </div>
